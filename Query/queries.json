@@ -1,0 +1,3 @@
+{
+    "EmployeeAllRecord":" select*from employee"
+}
